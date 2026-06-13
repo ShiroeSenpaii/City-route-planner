@@ -1,0 +1,15 @@
+{
+  "width": 5,
+  "height": 4,
+  "tiles": [
+    ["plains", "forest", "forest", "hill", "hill"],
+    ["plains", "forest", "plains", "hill", "river"],
+    ["plains", "plains", "river", "river", "river"],
+    ["forest", "plains", "plains", "hill", "plains"]
+  ],
+  "settlements": [
+    {"id":"oakmere","name":"Oakmere","tile":{"x":1,"y":1},"industry":"logging","mayor":"elowen","house":"stag","culture":"lowlanders","population":24,"storage":{"wood":8,"food":2,"stone":0},"needs":{"food":2}},
+    {"id":"riverbend","name":"Riverbend","tile":{"x":3,"y":2},"industry":"fishing","mayor":"tomas","house":"reed","culture":"riverfolk","population":28,"storage":{"food":8,"wood":1,"stone":0},"needs":{"wood":2}},
+    {"id":"greyhill","name":"Greyhill","tile":{"x":3,"y":0},"industry":"quarry","mayor":"brann","house":"ash","culture":"hillfolk","population":18,"storage":{"stone":6,"food":1,"wood":1},"needs":{"food":1,"wood":1}}
+  ]
+}

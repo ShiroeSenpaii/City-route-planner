@@ -1,0 +1,1 @@
+{"industries":[{"id":"logging","name":"Logging Camp","terrain":"forest","produces":"wood","amount":4},{"id":"fishing","name":"Fishing Dock","terrain":"river","produces":"food","amount":4},{"id":"quarry","name":"Quarry","terrain":"hill","produces":"stone","amount":3}]}
